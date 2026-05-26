@@ -1,16 +1,57 @@
-# React + Vite
+# Team Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full stack MERN application for managing team projects and tasks.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- User Authentication (Signup/Login)
+- JWT Authentication
+- Create Projects
+- Create Tasks
+- Dashboard Overview
+- Task Status Management
+- Responsive UI
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Frontend:
+- React
+- Vite
+- Axios
 
-## Expanding the ESLint configuration
+Backend:
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Deployment
+
+Frontend:
+Vercel
+
+Backend:
+Railway
+
+## Run Locally
+
+### Frontend
+
+cd client
+npm install
+npm run dev
+
+### Backend
+
+cd server
+npm install
+npm run dev
+
+## Live Demo
+
+Frontend:
+(https://vercel.com/ayushipgowardhans-projects/team-task-manager/7NAtdx2BbqEqhmRyrYf1zyDBsSwt)
+
+Backend:
+https://railway.com/project/a727b19f-630b-42b5-a0ca-0d4f2667b987/service/575a2369-cdaf-42e7-b531-592ef1343c2c?environmentId=3b4eddb2-4989-4ae6-96ff-561b506a89a6&id=6949c365-a5ab-4c09-b293-987bf18c0e17#deploy
