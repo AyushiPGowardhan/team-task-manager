@@ -51,7 +51,7 @@ npm run dev
 ## Live Demo
 
 Frontend:
-(https://vercel.com/ayushipgowardhans-projects/team-task-manager/7NAtdx2BbqEqhmRyrYf1zyDBsSwt)
+https://vercel.com/ayushipgowardhans-projects/team-task-manager/7NAtdx2BbqEqhmRyrYf1zyDBsSwt
 
 Backend:
-https://railway.com/project/a727b19f-630b-42b5-a0ca-0d4f2667b987/service/575a2369-cdaf-42e7-b531-592ef1343c2c?environmentId=3b4eddb2-4989-4ae6-96ff-561b506a89a6&id=6949c365-a5ab-4c09-b293-987bf18c0e17#deploy
+team-task-manager-production-212a.up.railway.app
